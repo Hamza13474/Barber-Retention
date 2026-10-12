@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280405037955",
+    "project_id": "barber-retention",
+    "storage_bucket": "barber-retention.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280405037955:android:7524e284b74cc9cb259cb6",
+        "android_client_info": {
+          "package_name": "com.hamza_khatana.barberretention"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBDSoQfwgTzR1CAZWeDRJ5V7-d4nkt5Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

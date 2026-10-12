@@ -1,0 +1,2 @@
+[functions.process-reminders]
+verify_jwt = false
